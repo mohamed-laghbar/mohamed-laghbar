@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning js and PHP **[Symfony, React Native, React,Express]**
 
-- 📝 I regularly write articles on [Dev.to](Dev.to)
 
 - 💬 Ask me about **express**
 
