@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-laghbar&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-laghbar" /> </p>
 
 
-- 🔭 I’m currently working on MERN stack project [https://github.com/mohamed-laghbar/gestion-des-formations-with-redux-react-express](https://github.com/mohamed-laghbar/gestion-des-formations-with-redux-react-express)
+- 🔭 I’m currently working on MERN stack project https://github.com/mohamed-laghbar/grocery-app-v2
 
 - 🌱 I’m currently learning js and PHP **[Symfony, React Native, React,Express]**
 
