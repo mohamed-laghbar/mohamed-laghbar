@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **express**
 
-- 📫 How to reach me **mo.laghbar.com**
+- 📫 How to reach me **mo.laghbar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
