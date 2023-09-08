@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning js and PHP **[Symfony, React Native, React,Express]**
+- 🌱 I’m currently learning js and PHP **[Laravel , React Native, React,Express]**
 
 
 - 💬 Ask me about **express**
